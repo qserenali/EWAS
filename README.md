@@ -10,3 +10,5 @@ The code repository includes the following steps:
 
 3 Manhattan plot, gene set enrichment analysis (GSEA) and over representation analysis (ORA)
 
+4 Differentially methylated region (DMR) analysis using comb-p
+

@@ -61,4 +61,16 @@ DMP.Braak.stage.IFG.robust.corrected<-list0[[2]]
 png("DMP.Braak.stage.IFG.robust_bacon.png")
 plot(bc, type="qq")
 dev.off()
+
+getLambda(Banner.ADvsND.STG.robust.corrected$old.P.Value, "PVAL") #1.768
+getLambda(Banner.ADvsND.STG.robust.corrected$P.Value, "PVAL") #1.047
+
+getLambda(DMP.Braak.stage.robust.corrected$old.P.Value, "PVAL") #1.542
+getLambda(DMP.Braak.stage.robust.corrected$P.Value, "PVAL") #1.039
+
+getLambda(IFG.CC.robust.corrected$old.P.Value, "PVAL") #1.338
+getLambda(IFG.CC.robust.corrected$P.Value, "PVAL") #1.034
+
+getLambda(DMP.Braak.stage.IFG.robust.corrected$old.P.Value, "PVAL") #1.11
+getLambda(DMP.Braak.stage.IFG.robust.corrected$P.Value, "PVAL") #1.034
  

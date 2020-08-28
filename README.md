@@ -8,5 +8,5 @@ The code repository includes the following steps:
 
 2 Bacon correction to control for inflation of association test statistics and QQ plot before and after Bacon correction
 
-3 Manhattan plot
+3 Manhattan plot, gene set enrichment analysis (GSEA) and over representation analysis (ORA)
 
